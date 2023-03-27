@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="icons/banner.jpg" alt="logo" width="100%"  height="auto" />
+  <img src="banner.jpg" alt="logo" width="100%"  height="auto" />
   <br/>
 
   <h3><b>Code-review-project</b></h3>
